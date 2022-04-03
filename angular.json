@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "sr-test": "apps/sr-test",
+    "sr-test-e2e": "apps/sr-test-e2e"
+  }
+}
