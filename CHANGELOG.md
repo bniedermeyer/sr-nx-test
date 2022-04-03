@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/bniedermeyer/sr-nx-test/compare/sr-test-v1.0.1...sr-test-v1.0.2) (2022-04-03)
+
+
+### Bug Fixes
+
+* don't generate notes twice ([335b5a5](https://github.com/bniedermeyer/sr-nx-test/commit/335b5a572178f985418ad192c861cd106143c740))
+
 ## [1.0.1](https://github.com/bniedermeyer/sr-nx-test/compare/sr-test-v1.0.0...sr-test-v1.0.1) (2022-04-03)
 
 
