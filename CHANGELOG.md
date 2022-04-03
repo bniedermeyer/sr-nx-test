@@ -1,3 +1,21 @@
+## [1.0.1](https://github.com/bniedermeyer/sr-nx-test/compare/sr-test-v1.0.0...sr-test-v1.0.1) (2022-04-03)
+
+
+### Bug Fixes
+
+* test minor ([d46cb9b](https://github.com/bniedermeyer/sr-nx-test/commit/d46cb9ba7c4011aada0f28387e37f09fdd54068f))
+
+
+
+
+
+## [1.0.1](https://github.com/bniedermeyer/sr-nx-test/compare/sr-test-v1.0.0...sr-test-v1.0.1) (2022-04-03)
+
+
+### Bug Fixes
+
+* test minor ([d46cb9b](https://github.com/bniedermeyer/sr-nx-test/commit/d46cb9ba7c4011aada0f28387e37f09fdd54068f))
+
 # 1.0.0 (2022-04-03)
 
 
