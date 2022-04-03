@@ -19,4 +19,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           HUSKY: 0
-        run: npm run release
+          BEFORE_SHA: ${{ github.event.before }}
+        run: npm run release -- --base=$BEFORE_SHA
