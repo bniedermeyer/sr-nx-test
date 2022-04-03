@@ -88,7 +88,7 @@
     "release": {
       "executor": "@nrwl/workspace:run-commands",
       "options": {
-        "command": "npx semantic-release -e apps/sr-test/.releaserc.json"
+        "command": "npx semantic-release -e ./apps/sr-test/.releaserc.json"
       }
     }
   },
